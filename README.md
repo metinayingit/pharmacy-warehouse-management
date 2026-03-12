@@ -20,7 +20,7 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/metinayingit/pharmacy-warehouse-management.git](https://github.com/metinayingit/pharmacy-warehouse-management.git)
+   git clone https://github.com/metinayingit/pharmacy-warehouse-management.git
    ```
 
 2. **Environment Setup:** Ensure you have a local server environment installed (like XAMPP, WAMP, or MAMP).
