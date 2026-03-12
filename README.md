@@ -40,7 +40,7 @@ To run this project locally on your machine, follow these steps:
    private $password = "";     
    ```
 
-6. **Run:** Open your browser and navigate to the project folder (e.g., `http://localhost/pharmacy-warehouse-management`).
+6. **Run:** Open your browser and navigate to the project folder (e.g., `http://localhost/index.php`).
 
 ## 🧪 Test Credentials
 You can use the following default accounts to explore different user roles:
