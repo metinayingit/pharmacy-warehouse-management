@@ -13,10 +13,7 @@ The system provides a clean, responsive, and user-friendly interface for managin
 * **Modern UI/UX:** A responsive, Single Page Application (SPA) feel with custom modal forms and toast notifications.
 
 ## 💻 Tech Stack
-* **Backend:** PHP 8+ (PDO for secure database interactions)
-* **Frontend:** HTML5, CSS3, Vanilla JavaScript
-* **Database:** MySQL
-* **Architecture:** AJAX-driven asynchronous operations
+* PHP • JavaScript • HTML • CSS • MySQL
 
 ## 🚀 Installation & Setup Guide
 To run this project locally on your machine, follow these steps:
