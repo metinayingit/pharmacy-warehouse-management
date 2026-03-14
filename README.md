@@ -1,5 +1,8 @@
 # 🏥 Pharmacy Warehouse Management System
 
+> [!TIP]
+> **🚀 Experience the project live:** [View Live Demo](https://metinayin.com/projects/pharmacy-warehouse-management/)
+
 ## 📖 About The Project
 This project is a web-based **Pharmacy Inventory and Staff Management System** developed as a practical learning exercise. It focuses on applying the core principles of dynamic web development, relational database management (CRUD operations), and secure Role-Based Access Control (RBAC). 
 
@@ -40,7 +43,7 @@ To run this project locally on your machine, follow these steps:
    private $password = "";     
    ```
 
-6. **Run:** Open your browser and navigate to the project folder (e.g., `http://localhost/index.php`).
+6. **Run:** Open your browser and navigate to the project folder (e.g., `http://localhost/pharmacy-warehouse-management`).
 
 ## 🧪 Test Credentials
 You can use the following default accounts to explore different user roles:
@@ -57,7 +60,7 @@ You can use the following default accounts to explore different user roles:
 * **Mock Data:** All medicine records, prices, and stock levels included in the `.sql` file are sample data generated purely for demonstration purposes. They do not represent real pharmaceutical information.
 
 ## 👨‍💻 Author
-**Metin Ayın**
+**Metin AYIN**
 * Website: [metinayin.com](https://metinayin.com)
 * LinkedIn: [Metin AYIN](https://linkedin.com/in/metinayin)
 
